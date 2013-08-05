@@ -1,0 +1,4 @@
+T-Test
+======
+
+Implement the *two-tailed* t-test under the assumption of equal variance.
